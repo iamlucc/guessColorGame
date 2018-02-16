@@ -67,7 +67,7 @@ button:hover {
   display: inline-block;
   width: 20%;
   font-weight: 700;
-  font-size: 140%;
+  font-size: 100%;
 }
 
 .selected {
